@@ -1,0 +1,6 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {"ms-azuretools.vscode-docker": "1.18.0",
+    "docker-compose": "1.29.2"
+  }
+}
